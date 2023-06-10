@@ -17,4 +17,4 @@ This project is an HTML Email Template I created based off a design from Dribble
 
 This one was a little different from my previous email templates that were newsletters and promotional emails. I enjoyed creating something that is useful for both buyers and sellers. I really enjoyed getting to recreate such a sleek, modern design.
 
-![](https://github.com/edwadewards/amazon-email-receipt/blob/main/amazon-email-receipt.png)
+![](https://github.com/edwadewards/amazon-email-receipt/blob/main/amazon-email-receipt_.png)
